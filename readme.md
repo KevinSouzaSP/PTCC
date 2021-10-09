@@ -2,7 +2,7 @@
 <p>Feito para salvar códigos ou arquivos julgados importantes para o futuro TCC</p>
 <br>
 
-<h3>Protótipos</h3>
+<h3>Protótipos APP e WEB</h3>
 <li>Tela de login</li>
 <li>Tela de cadastro</li>
 <li>Tela de Tela Inicial</li>
