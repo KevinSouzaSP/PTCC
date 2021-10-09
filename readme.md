@@ -3,11 +3,11 @@
 <br>
 
 <h3>Protótipos</h3>
-<i>Tela de login
-<i>Tela de cadastro
-<i>Tela de Tela Inicial
-<i>Tela de Tela de favoritos
-<i>Tela de Tela de notificações
-<i>Tela de Tela para seleção de estacionamento
-<i>Tela de Tela de Pagamento
-<i>Tela de Tela de tempo restante
+<i>Tela de login</i>
+<i>Tela de cadastro</i>
+<i>Tela de Tela Inicial</i>
+<i>Tela de Tela de favoritos</i>
+<i>Tela de Tela de notificações</i>
+<i>Tela de Tela para seleção de estacionamento</i>
+<i>Tela de Tela de Pagamento</i>
+<i>Tela de Tela de tempo restante</i>
